@@ -1,7 +1,7 @@
 # Pirated Identity
 CS 4455 - Video Game Design Final Group Project.
 
-Created with Unity 2018 with C#. To play, open the Game folder in Unity and build on Windows.
+Created with Unity 2018 with C# and Unity Store Assets. To play, open the Game folder in Unity and build on Windows.
 
 <p align="center">
   
