@@ -27,10 +27,11 @@ There is a boat that constantly loops around the map. The player can ride it as 
 
 ## Installation Requirements
 
-No additional installation is required. All assets are retained in the Unity game folder. 
+No external additional installation is required. All assets are retained in the Unity game folder. 
 
-## Gameplay Instructions
 Inside the Build folder, start up the game by double clicking “PiratedIdentity.exe”. Then on the main menu, hit play. After a brief cutscene, you will be brought to into the main game.
+
+In the Unity editor, you should be able to start and play the entire game with the game with the StartMenu Unity scene. Alternatively, any other game scene can be looped back to the main game or starting menu. 
 
 ## Controls
 - Our game’s choice of controls is intuitive and appropriate. This is because we chose the common mmorpg style controls. WASD to move the character and the left mouse button to attack. This allows the player to comfortably move the character with their left hand and shoot using their right hand. 
@@ -202,11 +203,3 @@ Yi Li - C# code scripts: enemy attack, player attack, player attack object(bulle
 Chloe Choi - Coded C# scripts such as hallway triggers, player to pick up the key, and the end room opening. Created environment from scratch using basic Unity shapes with materials created with custom textures and normal maps created with Photoshop. Imported character models and a combination of animations. Blended animations through mecanim and set up additional layers for attacking, getting hurt, and being healed. Created ragdoll skeleton. Set up the player camera. Created particle effects on the book, the key, and the healing effect on the character. Created proximity based animation on the squid. Created the animation for the boat to move around the map. Ideated base story and brainstormed artistic design.
 
 EunBin Lee - Coded C# script for player changing types based on point system. Created custom player and enemy texture using online Photoshop, and also created the particle game objects that was used for enemy attack depending on player type. Imported models and prefabs for the environment and created starting cutscene, win scene, and lose scene animation. Also contributed in setting up the player environment and scaled objects based on character size. 
-
-
-
-## Scene to open in Unity
-
-You should be able to start and play the entire game with the game with the StartMenu Unity scene. Alternatively, any other game scene can be looped back to the main game or starting menu. 
-
-
