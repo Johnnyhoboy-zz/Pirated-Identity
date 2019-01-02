@@ -5,28 +5,29 @@ Pirated Identity is  a 3D game that can be defined as a Game Feel game. It is a 
 The game has a clearly defined, achievable objective/goal. The player’s object is to search for their identity and match its color. This is hinted at during the cutscene, and also in the book instructions in the starting room. The book is placed in one of the corners of the starting room indicated by a ring of blue light. Press the spacebar to read the book. If the player reaches the reflection door without a key, a popup will indicate they need to find a key.
 ## Video
 Click to watch
-[![Click to watch](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentity_image.png)](https://drive.google.com/file/d/1-5gzjvhKzDkH8eGhugdNW5vOddWQmVqV/view?usp=sharing)
+[![Click to watch](https://github.com/Johnnyhoboy/Pirated-Identity/tree/master/Info/img/piratedIdentity_image.png)](https://drive.google.com/file/d/1-5gzjvhKzDkH8eGhugdNW5vOddWQmVqV/view?usp=sharing)
 
-## Story
-Pirates stole your identity and now you don’t remember who you are. You can kill enemies to gain their respective color and transform into a different form. With the form you think is the correct one, you will have to find your captured identity.
-
-![colors](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityColors_image.png)
-
-## Interesting Mechanics
-Defeating an enemy of a certain color adds that color to the player’s color bar. The player changes her color based on the bar that has the most points. Minibosses have no color but will drop memory hints to what your reflection color will be.  
-![color change](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityColorChange_image.png)  
-
-There is a switch in one of the rooms that allows the player to shift the position of the bridges that connect the rooms. This makes the player have to more carefully pay attention to the route that she wants to take in order to get to her goal.  
-![map](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityMap_image.png)  
-
-There is a boat that constantly loops around the map. The player can ride it as a sort of shortcut to get around the map but must think about the route that she wants to take first.  
-![boat](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityBoat_image.png)
 ## Contributors
 - Julie Pierides
 - John Ho
 - Chloe Lynne Choi
 - Yi Li
 - EunBin Dana Lee
+
+## Story
+Pirates stole your identity and now you don’t remember who you are. You can kill enemies to gain their respective color and transform into a different form. With the form you think is the correct one, you will have to find your captured identity.
+
+![colors](https://github.com/Johnnyhoboy/Pirated-Identity/tree/master/Info/img/piratedIdentityColors_image.png)
+
+## Interesting Mechanics
+Defeating an enemy of a certain color adds that color to the player’s color bar. The player changes her color based on the bar that has the most points. Minibosses have no color but will drop memory hints to what your reflection color will be.  
+![color change](https://github.com/Johnnyhoboy/Pirated-Identity/tree/master/Info/img/piratedIdentityColorChange_image.png)  
+
+There is a switch in one of the rooms that allows the player to shift the position of the bridges that connect the rooms. This makes the player have to more carefully pay attention to the route that she wants to take in order to get to her goal.  
+![map](https://github.com/Johnnyhoboy/Pirated-Identity/tree/master/Info/img/piratedIdentityMap_image.png)  
+
+There is a boat that constantly loops around the map. The player can ride it as a sort of shortcut to get around the map but must think about the route that she wants to take first.  
+![boat](https://github.com/Johnnyhoboy/Pirated-Identity/tree/master/Info/img/piratedIdentityBoat_image.png)
 
 ## Installation Requirements
 
@@ -40,7 +41,7 @@ Inside the Build folder, start up the game by double clicking “PiratedIdentity
 
 - Below is our controls book detailing the objective and controls of the game:
 
-![book](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityBook_image.png)
+![book](https://github.com/Johnnyhoboy/Pirated-Identity/tree/master/Info/img/piratedIdentityBook_image.png)
 
 
 
