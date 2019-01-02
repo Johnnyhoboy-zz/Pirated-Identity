@@ -1,16 +1,19 @@
 # Pirated Identity
 ## Summary
-Pirated Identity is  a 3D game that can be defined as a Game Feel game. It is a third person action/shooter with an explorable world and story.
-## Goal
-The game has a clearly defined, achievable objective/goal. The player’s object is to search for their identity and match its color. This is hinted at during the cutscene, and also in the book instructions in the starting room. The book is placed in one of the corners of the starting room indicated by a ring of blue light. Press the spacebar to read the book. If the player reaches the reflection door without a key, a popup will indicate they need to find a key.
-## Video
-Click to watch
-[![Click to watch](https://github.com/Johnnyhoboy/Pirated-Identity/blob/master/Info/img/piratedIdentity_image.png)](https://drive.google.com/file/d/1-5gzjvhKzDkH8eGhugdNW5vOddWQmVqV/view?usp=sharing)
+Pirated Identity is a 3D game that can be defined as a Game Feel game. It is a third person action/shooter "game feel" game with an explorable world and story. Game was made entirely in Unity 2018 with C# with assets imported from the Unity asset store.
 
 ## Story
 Pirates stole your identity and now you don’t remember who you are. You can kill enemies to gain their respective color and transform into a different form. With the form you think is the correct one, you will have to find your captured identity.
 
 ![colors](https://github.com/Johnnyhoboy/Pirated-Identity/blob/master/Info/img/piratedIdentityColors_image.png)
+
+## Goal
+The game has a clearly defined, achievable objective/goal. The player’s object is to search for their identity and match its color. This is hinted at during the cutscene, and also in the book instructions in the starting room. The book is placed in one of the corners of the starting room indicated by a ring of blue light. Press the spacebar to read the book. If the player reaches the reflection door without a key, a popup will indicate they need to find a key.
+
+
+## Video
+Click to watch
+[![Click to watch](https://github.com/Johnnyhoboy/Pirated-Identity/blob/master/Info/img/piratedIdentity_image.png)](https://drive.google.com/file/d/1-5gzjvhKzDkH8eGhugdNW5vOddWQmVqV/view?usp=sharing)
 
 ## Interesting Mechanics
 Defeating an enemy of a certain color adds that color to the player’s color bar. The player changes her color based on the bar that has the most points. Minibosses have no color but will drop memory hints to what your reflection color will be.  
