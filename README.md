@@ -3,7 +3,7 @@
 Pirated Identity is a 3D indie game that can be defined as a Game Feel game. It is a third person action/shooter with an explorable world and story. This indie project was made entirely in Unity 2018 with C# with assets imported from the Unity asset store. The game achieved a high 99/100 for CS 4455 Video Game Design at Georgia Tech, one of the highest grades in the Fall 2018 class, and voted "most polished" by the TA and instructors.
 
 ## Story
-Pirates stole your identity and now you don’t remember who you are. You can kill enemies to gain their respective color and transform into a different form. With the form you think is the correct one, you will have to find your captured identity.
+Pirates stole your identity and now you don’t remember who you are. You can kill enemies to gain their respective color and transform into a different form. There are three forms: Red, Blue, and Green. With the form you think is the correct one, you will have to find your captured identity.
 
 ![colors](https://github.com/Johnnyhoboy/Pirated-Identity/blob/master/Info/img/piratedIdentityColors_image.png)
 
